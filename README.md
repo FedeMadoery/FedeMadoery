@@ -14,11 +14,11 @@
 </h2>
 
 <ul>
-    <li> <img src="https://media.giphy.com/media/l0HeqpHy8Gkwlwuly/giphy.gif" width="30">I’m currently working on:
+    <li> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I’m currently working on:
         <ul>
             <li>
                 As Teacher in <a href="https://www.frsf.utn.edu.ar/"><img
-                    src="https://www.frsf.utn.edu.ar/templates/utn17/img/utnsantafe-color.png" height=20 alt="UTN"></a>
+                    src="https://utn.edu.ar/images/logo-utn.png" height=20 alt="UTN"></a>
             </li>
             <li>
                 Developer :computer:
