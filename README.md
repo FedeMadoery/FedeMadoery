@@ -14,7 +14,7 @@
 </h2>
 
 <ul>
-    <li> <img src="http://gph.is/2kGqdSB" width="30">I’m currently working on:
+    <li> <img src="https://media.giphy.com/media/l0HeqpHy8Gkwlwuly/giphy.gif" width="30">I’m currently working on:
         <ul>
             <li>
                 As Teacher in <a href="https://www.frsf.utn.edu.ar/"><img
