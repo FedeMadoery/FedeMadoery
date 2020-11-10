@@ -14,12 +14,11 @@
 </h2>
 
 <ul>
-    <li>🔭 I’m currently working on:
+    <li> <img src="http://gph.is/2kGqdSB" width="30">I’m currently working on:
         <ul>
             <li>
                 As Teacher in <a href="https://www.frsf.utn.edu.ar/"><img
                     src="https://www.frsf.utn.edu.ar/templates/utn17/img/utnsantafe-color.png" height=20 alt="UTN"></a>
-                :mortar_board:
             </li>
             <li>
                 Developer :computer:
