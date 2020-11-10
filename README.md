@@ -2,11 +2,20 @@
   Hi there 👋 I'm Federico 👨‍💻
 </h1>
 <p>
-<a href="https://www.linkedin.com/in/federico-madoery"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><a href="https://es.stackoverflow.com/users/69913/federico-madoery?tab=profile"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" height=25></a>
+<a href="https://www.linkedin.com/in/federico-madoery"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://es.stackoverflow.com/users/69913/federico-madoery?tab=profile"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" height=25></a>
 </p>
+
+<h2> 
+  ⚡️ A Few Quick Facts
+</h2> 
+
 <ul>
-<li>🔭 I’m currently working on as Teacher, Developer and a little bit of Proyect Manager :snowboarder:</li>
-<li>🧐 Learning about Management</li>
+<li>🔭 I’m currently working on: 
+  - As Teacher in <a href="https://www.frsf.utn.edu.ar/"><img src="https://www.frsf.utn.edu.ar/templates/utn17/img/utnsantafe-color.png" height=25 alt="UTN"></a> :mortar_board:
+  - Developer :computer:
+  - A little bit of Proyect Manager :snowboarder:
+  </li>
+<li>🌱 Learning about Management</li>
 </ul>
 
 <h2>GitHub Stats</h2>
