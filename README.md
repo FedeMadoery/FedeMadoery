@@ -20,7 +20,7 @@
     <li><b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I’m currently working on:</b>
         <ul>
             <li><b>
-                As Teacher in <a href="https://www.frsf.utn.edu.ar/"><img
+                As Teacher at <a href="https://www.frsf.utn.edu.ar/"><img
                     src="https://utn.edu.ar/images/logo-utn.png" height=20 alt="UTN"></a></b>
             </li>
             <li>
