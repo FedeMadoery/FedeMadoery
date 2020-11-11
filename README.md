@@ -1,9 +1,9 @@
 <h1>
     Hi there 👋 I'm Federico 👨‍💻
 </h1>
-<h4>
+<h3>
 📬 Find me at
-</h4>
+</h3>
 <p>
     <a href="https://www.linkedin.com/in/federico-madoery"><img
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
