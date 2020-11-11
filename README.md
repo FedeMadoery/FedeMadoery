@@ -19,19 +19,19 @@
 <ul>
     <li> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I’m currently working on:
         <ul>
-            <li>
+            <li><b>
                 As Teacher in <a href="https://www.frsf.utn.edu.ar/"><img
-                    src="https://utn.edu.ar/images/logo-utn.png" height=20 alt="UTN"></a>
+                    src="https://utn.edu.ar/images/logo-utn.png" height=20 alt="UTN"></a></b>
             </li>
             <li>
-                Developer :computer:
+               <b> Developer :computer:</b>
             </li>
             <li>
-                A little bit of Proyect Manager :snowboarder:
+                <b>A little bit of Proyect Manager :snowboarder: </b>
             </li>
         </ul>
     </li>
-    <li>🌱 Learning about Management</li>
+    <li>🌱 <b>Learning about Management</b></li>
 </ul>
 
 <h2>GitHub Stats</h2>
