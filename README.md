@@ -17,21 +17,21 @@
 </h2>
 
 <ul>
-    <li><b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I’m currently working on:</b>
+    <li><b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I’m currently working as:</b>
         <ul>
             <li><b>
-                As Teacher at <a href="https://www.frsf.utn.edu.ar/"><img
+                Teacher at <a href="https://www.frsf.utn.edu.ar/"><img
                     src="https://utn.edu.ar/images/logo-utn.png" height=20 alt="UTN"></a></b>
             </li>
             <li>
-               <b> Developer :computer:</b>
+               <b>Developer :computer:</b>
             </li>
             <li>
-                <b>A little bit of Proyect Manager :snowboarder: </b>
+                <b>Proyect Manager :snowboarder: </b>
             </li>
         </ul>
     </li>
-    <li>🌱 <b>Learning about Management</b></li>
+    <li>🌱 <b>Learning about Management and Lead</b></li>
 </ul>
 
 <h2>GitHub Stats</h2>
