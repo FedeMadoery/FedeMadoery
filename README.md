@@ -27,7 +27,7 @@
                <b>Developer :computer:</b>
             </li>
             <li>
-                <b>Proyect Manager :snowboarder: </b>
+                <b>Project Manager :snowboarder: </b>
             </li>
         </ul>
     </li>
