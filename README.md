@@ -32,6 +32,8 @@
         </ul>
     </li>
     <li>🌱 <b>Learning about Management and Lead</b></li>
+    <li>🔗 <b>Learning about Web3</b></li>
+
 </ul>
 
 <h2>GitHub Stats</h2>
