@@ -19,6 +19,9 @@
 <ul>
     <li><b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I’m currently working as:</b>
         <ul>
+            <li>
+               <b>Co-Founder of <a href="https://thebadge.xyz/">TheBadge</a> </b>
+            </li>
             <li><b>
                 Professor at <a href="https://www.frsf.utn.edu.ar/"><img
                     src="https://utn.edu.ar/images/logo-utn.png" height=20 alt="UTN"></a></b>
