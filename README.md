@@ -43,8 +43,14 @@
 
 <p align='center'>
     <a href="#"><img
+            src="https://github-readme-streak-stats.herokuapp.com?user=FedeMadoery&theme=transparent"
+            width="450"></a>
+</p>
+
+<p align='center'>
+    <a href="#"><img
             src="https://github-readme-stats.vercel.app/api?username=FedeMadoery&show_icons=true&count_private=true&theme=dark"
-            width="350"></a>
+            width="450"></a>
 </p>
 
 <details>
